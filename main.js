@@ -68,11 +68,7 @@ const music_list = [
         name : 'Rather Be',
         artist : 'Clean Bandit',
         music : 'music/music_Rather Be.mp3'
-    },
-   
-    
-    
-
+    }
 ];
 
 loadTrack(track_index);
