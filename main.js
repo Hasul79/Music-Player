@@ -22,6 +22,30 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'image/fridland_06133620.jpg',
+        name : 'Prelude',
+        artist : 'Aram Xachatryan',
+        music : 'music/арам-хачатурян-michalis-kontaxakis-prelude.mp3'
+    },
+    {
+        img : 'image/210122_1_ico.jpg',
+        name : 'Nocturne',
+        artist : 'Arno Babajanyan',
+        music : 'music/nocturne-by-arno-babajanyan.mp3'
+    },
+    { 
+        img : 'image/Бабаджанян-Арно-Арутюнович.jpg',
+        name : 'Yerevani sirun axjik',
+        artist : 'Бабаджанян-Арно',
+        music : 'music/harutyun-ansuryan-siro-yerg-yerevani-sirun-aghjik-a-babajanyan.mp3'
+    },
+    {
+        img : 'image/i.webp',
+        name : 'К Элизе',
+        artist : ' Бетховен ',
+        music : 'music/Детское издательство _Елена_ - К Элизе. Бетховен (www.hotplayer.ru).mp3'
+    },
+    {
         img : 'image/stay.png',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
@@ -45,24 +69,9 @@ const music_list = [
         artist : 'Clean Bandit',
         music : 'music/music_Rather Be.mp3'
     },
-    { 
-        img : 'image/Бабаджанян-Арно-Арутюнович.jpg',
-        name : 'Yerevani sirun axjik',
-        artist : 'Бабаджанян-Арно',
-        music : 'music/harutyun-ansuryan-siro-yerg-yerevani-sirun-aghjik-a-babajanyan.mp3'
-    },
-    {
-        img : 'image/fridland_06133620.jpg',
-        name : 'Aram Xachatryan',
-        artist : 'Prelude',
-        music : 'music/арам-хачатурян-michalis-kontaxakis-prelude.mp3'
-    },
-    {
-        img : 'image/210122_1_ico.jpg',
-        name : 'Nocturne',
-        artist : 'Arno Babajanyan',
-        music : 'music/nocturne-by-arno-babajanyan.mp3'
-    },
+   
+    
+    
 
 ];
 
